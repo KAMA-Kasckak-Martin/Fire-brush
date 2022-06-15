@@ -7,7 +7,7 @@ let opacity = random(10, 40);
 let green = 0;
 
 function draw() {
-  fill;
+  fill(random());
   if (mouseIsPressed) {
   }
 }
